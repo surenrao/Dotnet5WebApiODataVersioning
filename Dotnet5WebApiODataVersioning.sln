@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet5WebApiODataVersioning", "Dotnet5WebApiODataVersioning\Dotnet5WebApiODataVersioning.csproj", "{4FCBDEF7-367F-4D63-A169-58C979881FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FCBDEF7-367F-4D63-A169-58C979881FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCBDEF7-367F-4D63-A169-58C979881FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCBDEF7-367F-4D63-A169-58C979881FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCBDEF7-367F-4D63-A169-58C979881FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45FB83FE-B0EE-4770-9E93-03985BA8682C}
+	EndGlobalSection
+EndGlobal
